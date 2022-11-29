@@ -1,0 +1,16 @@
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\bin\Debug\net6.0\program.exe
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\bin\Debug\net6.0\program.deps.json
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\bin\Debug\net6.0\program.runtimeconfig.json
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\bin\Debug\net6.0\program.dll
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\bin\Debug\net6.0\ref\program.dll
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\bin\Debug\net6.0\program.pdb
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.GlobalUsings.g.cs
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.dll
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\ref\program.dll
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.pdb
+C:\Users\gusev76\Desktop\Катерина учится\CONTROL\program\obj\Debug\net6.0\program.genruntimeconfig.cache
